@@ -9,11 +9,11 @@ Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International 
 
 Using this code for non-commercial purposes is permitted to all given that the three following publications are cited:
 
-Aref, S., Mason, A. J., and Wilson, M. C. An exact method for computing the frustration index in signed networks using binary programming. arXiv:1611.09030 (2017). url: http://arxiv.org/pdf/1611.09030.
+1. Aref, S., Mason, A. J., and Wilson, M. C. An exact method for computing the frustration index in signed networks using binary programming. arXiv:1611.09030 (2017). url: http://arxiv.org/pdf/1611.09030.
 
-Aref, S., Mason, A. J., and Wilson, M. C. Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. url: https://www.springer.com/gp/book/9783319948294. doi: 10.1007/978-3-319-94830-0_3
+2. Aref, S., Mason, A. J., and Wilson, M. C. Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. url: https://www.springer.com/gp/book/9783319948294. doi: 10.1007/978-3-319-94830-0_3
 
-Aref, S., and Neal, Z. Legislative effectiveness hangs in the balance: Studying balance and polarization through partitioning signed networks. arXiv:1906.01696 (2019). url: http://arxiv.org/pdf/1906.01696.
+3. Aref, S., and Neal, Z. Legislative effectiveness hangs in the balance: Studying balance and polarization through partitioning signed networks. arXiv:1906.01696 (2019). url: http://arxiv.org/pdf/1906.01696.
 
 Related datasets:
 
