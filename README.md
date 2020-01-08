@@ -1,7 +1,7 @@
 # frustration-index-dense
-The algorithm based on the optimization models (Aref and Neal "Legislative effectiveness hangs in the balance: Studying balance and polarization through partitioning signed networks" 2019) for computing the frustration index in relatively dense signed networks
+The algorithm based on the optimization models (Aref and Neal "Detecting Coalitions by Optimally Partitioning Signed Networks of Political Collaboration" 2020 Scientific Reports) for computing the frustration index in relatively dense signed networks.
 
-This algorithm is designed in Python 3.7 based on the models for computing the exact value of frustration index discussed in Aref et al. 2019.
+This algorithm is designed in Python 3.7 based on the models for computing the exact value of frustration index discussed in Aref and Neal (2020).
 
 Linear programming (continuous) and binary linear (discrete) programming models for computing the frustration index of relatively dense signed graphs - Jupyter code written by Samin Aref in 2018
 
@@ -9,11 +9,11 @@ Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International 
 
 Using this code for non-commercial purposes is permitted to all given that the three following publications are cited:
 
-1. Aref, S., Mason, A. J., and Wilson, M. C., A modelling and computational study of the frustration index in signed networks. arXiv:1611.09030 (2017). url: http://arxiv.org/pdf/1611.09030.
+1. Aref, S, Mason, AJ, Wilson, MC. A modeling and computational study of the frustration index in signed networks. Networks. 2020; 75: 95– 110. https://doi.org/10.1002/net.21907
 
 2. Aref, S., Mason, A. J., and Wilson, M. C., Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. url: https://www.springer.com/gp/book/9783319948294. doi: 10.1007/978-3-319-94830-0_3
 
-3. Aref, S., and Neal, Z., Legislative effectiveness hangs in the balance: Studying balance and polarization through partitioning signed networks. arXiv:1906.01696 (2019). url: http://arxiv.org/pdf/1906.01696.
+3. Aref, S., and Neal, Z., Detecting Coalitions by Optimally Partitioning Signed Networks of Political Collaboration. Scientific Reports (2020). url: http://arxiv.org/pdf/1906.01696.
 
 Related datasets:
 
@@ -27,7 +27,7 @@ The following steps outline the process for installing the required software on 
 
 2-Register for an account on https://www.gurobi.com/registration-general-reg/ to get a free academic license for using Gurobi. Note that Gurobi is a commercial software, but it can be registered with a free academic license if the user is affiliated with a recognized degree-granting academic institution. This involves creating an account on Gurobi website to be able to request a free academic license in step 5.
 
-3-Download and install Gurobi Optimizer (versions 8.0 and above are recommended) which can be downloaded from https://www.gurobi.com/downloads/gurobi-optimizer-eula/ after reading and agreeing to Gurobi's End User License Agreement.
+3-Download and install Gurobi Optimizer (Latest version recommended) which can be downloaded from https://www.gurobi.com/downloads/gurobi-optimizer-eula/ after reading and agreeing to Gurobi's End User License Agreement.
 
 4-Install Gurobi into Anaconda. You do this by first adding the Gurobi channel to your Anaconda channels and then installing the Gurobi package from this channel.
 
@@ -41,12 +41,12 @@ conda install gurobi
 
 5-Request an academic license from https://www.gurobi.com/downloads/end-user-license-agreement-academic/ and install the license on your computer following the instructions given on Gurobi license page.
 
-Completing these steps is explained in the following links (for version 8.1):
+Completing these steps is explained in the following links (for version 9.0):
 
-for windows https://www.gurobi.com/documentation/8.1/quickstart_windows/installing_the_anaconda_py.html
+for windows https://www.gurobi.com/documentation/9.0/quickstart_windows/ins_the_anaconda_python_di.html
 
-for Linux https://www.gurobi.com/documentation/8.1/quickstart_linux/installing_the_anaconda_py.html
+for Linux https://www.gurobi.com/documentation/9.0/quickstart_linux/ins_the_anaconda_python_di.html
 
-for mac https://www.gurobi.com/documentation/8.1/quickstart_mac/installing_the_anaconda_py.html
+for Mac OSX https://www.gurobi.com/documentation/9.0/quickstart_mac/ins_the_anaconda_python_di.html
 
 After following the instructions above, open Jupyter Notebook which takes you to an environment (a new tab on your browser pops up on your screen) where you can open the main code (which is a file with .ipynb extension).
