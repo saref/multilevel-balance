@@ -3,7 +3,7 @@ The algorithm based on the optimization models (Aref and Neal "Detecting Coaliti
 
 This algorithm is designed in Python 3.7 based on the models for computing the exact value of frustration index discussed in Aref and Neal (2020).
 
-Linear programming (continuous) and binary linear (discrete) programming models for computing the frustration index of relatively dense signed graphs - Jupyter code written by Samin Aref in 2018
+Linear programming (continuous) and binary linear (discrete) programming models for lower-bounding and computing the frustration index of relatively dense signed graphs - Jupyter code written by Samin Aref in 2018
 
 Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
