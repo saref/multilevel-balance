@@ -1,9 +1,9 @@
-# frustration-index-dense
-The algorithm based on the optimization models (Aref and Neal "Detecting Coalitions by Optimally Partitioning Signed Networks of Political Collaboration" 2020 Scientific Reports) for computing the frustration index in relatively dense signed networks.
+# frustration-index-directed
+The algorithm based on the optimization models (Citation missing) for computing the frustration index in directed signed networks.
 
-This algorithm is designed in Python 3.7 based on the models for computing the exact value of frustration index discussed in Aref and Neal (2020).
+This algorithm is designed in Python 3.7 based on the models for computing the exact value of frustration index discussed in (citation missing).
 
-Linear programming (continuous) and binary linear (discrete) programming models for lower-bounding and computing the frustration index of relatively dense signed graphs - Jupyter code written by Samin Aref in 2018
+Linear programming (continuous) and binary linear (discrete) programming models for lower-bounding and computing the frustration index of directed signed graphs - Jupyter code written by Samin Aref in 2020
 
 Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
@@ -13,13 +13,11 @@ Using this code for non-commercial purposes is permitted to all given that the t
 
 2. Aref, S., Mason, A. J., and Wilson, M. C., Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. url: https://doi.org/10.1007/978-3-319-94830-0_3
 
-3. Aref, S., and Neal, Z., Detecting Coalitions by Optimally Partitioning Signed Networks of Political Collaboration. Scientific Reports (2020). url: http://arxiv.org/pdf/1906.01696.
+3. Aref, S., and Neal, Z., Detecting Coalitions by Optimally Partitioning Signed Networks of Political Collaboration. Scientific Reports (2020). url: https://www.nature.com/articles/s41598-020-58471-z.
 
 Related datasets:
 
-Aref, S., Signed networks from sociology and political science, systems biology, international relations, finance, and computational chemistry. Figshare research data repository (2017). http://doi.org/10.6084/m9.figshare.5700832.v2.
-
-Neal, Z., A Sign of the Times. Figshare research data repository (2019). http://doi.org/10.6084/m9.figshare.8096429.v1. 
+(Dataset is under embargo)
 
 The following steps outline the process for installing the required software on your computer to be able to run the code:
 
