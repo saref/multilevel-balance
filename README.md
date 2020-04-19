@@ -13,7 +13,7 @@ Using this code for non-commercial purposes is permitted to all given that the t
 
 2. Aref, S., Mason, A. J., and Wilson, M. C., Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. url: https://doi.org/10.1007/978-3-319-94830-0_3
 
-3. Aref, S., and Neal, Z., Detecting Coalitions by Optimally Partitioning Signed Networks of Political Collaboration. Scientific Reports (2020). url: https://www.nature.com/articles/s41598-020-58471-z.
+3. CITATION MISSING
 
 Related datasets:
 
