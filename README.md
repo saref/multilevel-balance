@@ -1,9 +1,9 @@
-# frustration-index-directed
-The algorithm based on the optimization models (Citation missing) for computing the frustration index in directed signed networks.
+# multilevel-balance
+Jupyter code for multiplevel evaluation of balance in directed signed graphs incluidng the binary linear programming model for computing the frustration index of directed signed graphs as described in the paper "The Many Faces of Balance: Multilevel Structural Evaluation of Signed Directed Social Networks"
 
-This algorithm is designed in Python 3.7 based on the models for computing the exact value of frustration index discussed in (citation missing).
+This algorithm is developed in Python 3.7 based on the computational methods for multilevel evaluation of balanced including computing the exact value of frustration index discussed in (citation missing).
 
-Linear programming (continuous) and binary linear (discrete) programming models for lower-bounding and computing the frustration index of directed signed graphs - Jupyter code written by Samin Aref in 2020
+Jupyter code written by Samin Aref, Rezvaneh Rezapour, and Ly Dinh in 2020
 
 Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
