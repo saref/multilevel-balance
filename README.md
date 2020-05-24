@@ -9,11 +9,11 @@ Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International 
 
 Using this code for non-commercial purposes is permitted to all given that the three following publications are cited:
 
-1. Aref, S, Mason, AJ, Wilson, MC. A modeling and computational study of the frustration index in signed networks. Networks. 2020; 75: 95– 110. url: https://doi.org/10.1002/net.21907
+1. Aref, S., Mason, A. J., & Wilson, M. C. (2020). A modeling and computational study of the frustration index in signed networks. Networks, 75(1), 95-110. url: https://doi.org/10.1002/net.21907
 
-2. Aref, S., Mason, A. J., and Wilson, M. C., Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. url: https://doi.org/10.1007/978-3-319-94830-0_3
+2. Aref, S., & Neal, Z. (2020). Detecting coalitions by optimally partitioning signed networks of political collaboration. Scientific reports, 10(1), 1-10. url: https://www.nature.com/articles/s41598-020-58471-z.
 
-3. CITATION MISSING
+3. Aref, S., Dinh, L., Rezapour, R., & Diesner, J. (2020). The Many Faces of Balance: Multilevel Structural Evaluation of Signed Directed Social Networks. arXiv preprint arXiv:2005.09925. https://arxiv.org/pdf/2005.09925.
 
 Related datasets:
 
