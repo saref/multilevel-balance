@@ -1,7 +1,8 @@
 # multilevel-balance
-Jupyter code for multiplevel evaluation of balance in directed signed graphs incluidng the binary linear programming model for computing the frustration index of directed signed graphs as described in the paper "The Many Faces of Balance: Multilevel Structural Evaluation of Signed Directed Social Networks" by Samin Aref, Ly Dinh, Rezvaneh Rezapour, and Jana Diesner.
+Jupyter code for multiplevel evaluation of balance in directed signed graphs incluidng the binary linear programming model for computing the frustration index of directed signed graphs as described in the paper:
+Aref, S., Dinh, L., Rezapour, R. et al. Multilevel structural evaluation of signed directed social networks based on balance theory. Sci Rep 10, 15228 (2020). https://doi.org/10.1038/s41598-020-71838-6
 
-This algorithm is developed in Python 3.7 based on the computational methods for multilevel evaluation of balanced including computing the exact value of frustration index discussed in the above article accessible as a preprint at https://arxiv.org/pdf/2005.09925.
+This algorithm is developed in Python 3.7 based on the computational methods for multilevel evaluation of balanced including computing the exact value of frustration index discussed in the above article.
 
 Jupyter code written by Samin Aref, Rezvaneh Rezapour, and Ly Dinh in 2020
 
@@ -9,15 +10,15 @@ Creative common license: Attribution-NonCommercial-ShareAlike 4.0 International 
 
 Using this code for non-commercial purposes is permitted to all given that the three following publications are cited:
 
-1. Aref, S., Mason, A. J., & Wilson, M. C. (2020). A modeling and computational study of the frustration index in signed networks. Networks, 75(1), 95-110. url: https://doi.org/10.1002/net.21907
+1. Aref, S., Dinh, L., Rezapour, R. et al. Multilevel structural evaluation of signed directed social networks based on balance theory. Sci Rep 10, 15228 (2020). https://doi.org/10.1038/s41598-020-71838-6
 
-2. Aref, S., & Neal, Z. (2020). Detecting coalitions by optimally partitioning signed networks of political collaboration. Scientific reports, 10(1), 1-10. url: https://www.nature.com/articles/s41598-020-58471-z.
+2. Aref, S., Mason, A. J., & Wilson, M. C. (2020). A modeling and computational study of the frustration index in signed networks. Networks, 75(1), 95-110. url: https://doi.org/10.1002/net.21907
 
-3. Aref, S., Dinh, L., Rezapour, R., & Diesner, J. (2020). The Many Faces of Balance: Multilevel Structural Evaluation of Signed Directed Social Networks. arXiv preprint arXiv:2005.09925. https://arxiv.org/pdf/2005.09925.
+3. Aref, S., Mason, A. J., and Wilson, M. C. Computing the line index of balance using integer programming optimisation. In Optimization Problems in Graph Theory, B. Goldengorin, Ed. Springer, 2018, pp. 65-84. https://doi.org/10.1007/978-3-319-94830-0_3
 
 Related datasets:
 
-(Dataset is under embargo)
+Aref, S., Dinh, L., and Rezapour, R. : Dataset of directed signed networks from social domain. figshare data repository, 2020, https://doi.org/10.6084/m9.figshare.12152628
 
 The following steps outline the process for installing the required software on your computer to be able to run the code:
 
