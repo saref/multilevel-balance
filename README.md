@@ -1,5 +1,5 @@
 # multilevel-balance
-Jupyter code for multiplevel evaluation of balance in directed signed graphs incluidng the binary linear programming model for computing the frustration index of directed signed graphs as described in the paper:
+Jupyter code for multi-level evaluation of balance in directed signed graphs incluidng the binary linear programming model for computing the frustration index of directed signed graphs as described in the paper:
 Aref, S., Dinh, L., Rezapour, R. et al. Multilevel structural evaluation of signed directed social networks based on balance theory. Sci Rep 10, 15228 (2020). https://doi.org/10.1038/s41598-020-71838-6
 
 This algorithm is developed in Python 3.7 based on the computational methods for multilevel evaluation of balanced including computing the exact value of frustration index discussed in the above article.
